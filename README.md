@@ -8,9 +8,8 @@
 
     <h1>My GitHub Status</h1>
 
-    <!-- GitHub Stats Card -->
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" 
+        <img src="https://github-readme-stats.vercel.app/api?username=BIRUHALEMAYEHU&show_icons=true&theme=radical" 
              alt="GitHub Stats" />
     </div>
 
@@ -18,7 +17,7 @@
 
     <!-- Top Languages -->
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIRUHALEMAYEHU&layout=compact&theme=radical" 
              alt="Top Languages" />
     </div>
 
@@ -26,7 +25,7 @@
 
     <!-- GitHub Streak Stats -->
     <div>
-        <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" 
+        <img src="https://streak-stats.demolab.com?user=BIRUHALEMAYEHUE&theme=radical" 
              alt="GitHub Streak" />
     </div>
 
@@ -34,7 +33,7 @@
 
     <!-- GitHub Activity Graph -->
     <div>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" 
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BIRUHALEMAYEHU&theme=react-dark" 
              alt="GitHub Activity Graph" />
     </div>
 
