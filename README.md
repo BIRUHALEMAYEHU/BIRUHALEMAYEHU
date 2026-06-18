@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I’m BIRUH A. — a full-stack developer with a strong love for backend engineering. I build with Python, JavaScript, Typescript and React. I’m big on clean architecture, scalable APIs, and solving real-world problems that actually matter.<br>I stay grinding with side projects, React/Django builds, LeetCode sessions, and leveling up my system design game every day.<br><br>🔨 Working on: Full-stack apps with solid backend architecture<br><br>📚 Learning: System design, cloud deployment workflows, and deeper Go internals<br><br>🧠 Ask me about: Full-stack dev, API design, structuring scalable backends, or Go best practices
+Hey! I’m — a full-stack developer with a strong love for backend engineering. I build with Python, JavaScript, Typescript and React. I’m big on clean architecture, scalable APIs, and solving real-world problems that actually matter.<br>I stay grinding with side projects, React/Django builds, LeetCode sessions, and leveling up my system design game every day.<br><br>🔨 Working on: Full-stack apps with solid backend architecture<br><br>📚 Learning: System design, cloud deployment workflows, and deeper Go internals<br><br>🧠 Ask me about: Full-stack dev, API design, structuring scalable backends, or Go best practices
 
 
 # 💻 Tech Stack:
